@@ -1,4 +1,5 @@
 # Ernesto_DNA_Algorithm
+*Still need to refactor this code. Built in a few hours to get a working model. Many things to modularize and increase efficiency
 Algorithm Implementation Practice 
 Needleman Wunsch Algorithm to Compare Two DNA strands. 
 
